@@ -1,28 +1,30 @@
-# Compiled Object files
-*.slo
-*.lo
+#General build artifacts
+*.mk
 *.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-
-# Compiled Static libraries
-*.lai
-*.la
 *.a
-*.lib
+*.elf
+*.hex
+*.axf
+*.d
+*.lst
+*.map
+*.plg
+*.lnp
+*.crf
+*.tra
+*.sct
+*.bak
+*.dep
 
-# Executables
-*.exe
-*.out
-*.app
+#MDK-ARM
+*.__i
+*.htm
+*.uvgui.*
+*.uvopt
+*.axf
+
+#Eclipse
+.metadata
+
+#Mac
+.DS_Store
