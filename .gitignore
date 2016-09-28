@@ -31,3 +31,4 @@
 
 #Release
 device/main_m0/Release/
+device/main_m0/Release/*.ld
