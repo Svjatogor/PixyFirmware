@@ -30,5 +30,5 @@
 .DS_Store
 
 #Release
-/device/main_m0/Release/*
-/device/main_m4/SPIFI/*
+./device/main_m0/Release/*
+./device/main_m4/SPIFI/*
