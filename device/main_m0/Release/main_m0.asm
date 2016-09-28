@@ -211,10 +211,10 @@
   76              		.file 3 "/usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/redlib/include/stdint.h"
 DEFINED SYMBOLS
                             *ABS*:00000000 main_m0.c
-     /tmp/ccG5hWCd.s:20     .rodata:00000000 $d
-     /tmp/ccG5hWCd.s:24     .text.main:00000000 $t
-     /tmp/ccG5hWCd.s:29     .text.main:00000000 main
-     /tmp/ccG5hWCd.s:68     .text.main:0000002c $d
+     /tmp/cciKYzyE.s:20     .rodata:00000000 $d
+     /tmp/cciKYzyE.s:24     .text.main:00000000 $t
+     /tmp/cciKYzyE.s:29     .text.main:00000000 main
+     /tmp/cciKYzyE.s:68     .text.main:0000002c $d
                      .debug_frame:00000010 $d
 
 UNDEFINED SYMBOLS

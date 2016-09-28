@@ -49,7 +49,7 @@ static const ProcModule g_module[] =
 	{END}, 
 	"Get a frame of color run-length segments (RLS)"
 	"@r 0 if success, negative if error"
-	"@r CCQ1 formated data, including 8-palette"
+	"@r CCQ1 formated data, including 8-pale tte"
 	},
 	{
 	"cc_setSigRegion",
